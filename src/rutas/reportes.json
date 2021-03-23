@@ -1,0 +1,46 @@
+[
+    {
+        "fecha" : "22-03-21" ,
+        "impresiones" : 5000,
+        "clickIndividuales" : 11718,
+        "tiempoNavegacion" : 4589,
+        "procesosCompletos" : 5523,
+        "Conversiones" : 8394,
+        "SalidaDeSitio" :73894
+    },
+    {
+        "fecha" : "24-11-18" ,
+        "impresiones" : 7000,
+        "clickIndividuales" : 5893,
+        "tiempoNavegacion" : 3002,
+        "procesosCompletos" : 10834,
+        "Conversiones" : 4190,
+        "SalidaDeSitio" :93549
+    },
+    {
+        "fecha" : "13-01-20" ,
+        "impresiones" : 3500,
+        "clickIndividuales" : 5873,
+        "tiempoNavegacion" : 1928,
+        "procesosCompletos" : 4394,
+        "Conversiones" : 1938,
+        "SalidaDeSitio" :7589
+    },
+    {
+        "fecha" : "22-03-21" ,
+        "impresiones" : 5000,
+        "clickIndividuales" : 11718,
+        "tiempoNavegacion" : 4589,
+        "procesosCompletos" : 5523,
+        "Conversiones" : 8394,
+        "SalidaDeSitio" :73894
+    },    {
+        "fecha" : "03-04-21" ,
+        "impresiones" : 2300,
+        "clickIndividuales" : 3875,
+        "tiempoNavegacion" : 1920,
+        "procesosCompletos" : 8935,
+        "Conversiones" : 3298,
+        "SalidaDeSitio" :7938
+    }
+]
