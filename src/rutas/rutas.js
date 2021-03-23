@@ -8,3 +8,5 @@ const router = Router();
 app.get('/', (req,res) =>{
     res.send({"name" :"John Doe "});
 });
+
+module.exports = router;
